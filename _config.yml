@@ -17,11 +17,11 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/pages-starter" # the subpath of your site
-url: "https://chesshacker.github.io"
-email: steve@ortizaggies.com
-github_username:  chesshacker
-linkedin_username: chesshacker
-twitter_username: chesshacker
+url: "https://hutchinson2146.github.io"
+email: hutchinsonpatrick2146@gmail.com
+github_username:  hutchinson2146
+#linkedin_username: chesshacker
+#twitter_username: chesshacker
 
 # Build settings
 markdown: kramdown
